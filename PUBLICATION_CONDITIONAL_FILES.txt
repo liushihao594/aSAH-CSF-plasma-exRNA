@@ -1,0 +1,2 @@
+# No conditional files remain after the author-approved LICENSE and CITATION.cff update.
+# This record is retained because it was part of the audited 48-file candidate scope.

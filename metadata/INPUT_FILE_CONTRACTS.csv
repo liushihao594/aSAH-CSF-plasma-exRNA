@@ -1,0 +1,9 @@
+input_id,required_by,expected_content,minimum_checks,redistributed
+SOURCE_RPM_MIRNA,"Stage 0/1/4","GSE121868 miRNA RPM matrix with source feature and library identifiers","project identity; feature IDs; nonnegative numeric values; sample/library crosswalk; checksum",NO
+SOURCE_RPM_GENCODE,"Stage 0/1/4","GSE121868 GENCODE-annotated exRNA RPM matrix","project identity; annotation version; feature IDs; sample/library crosswalk; checksum",NO
+PROVENANCE_CROSSWALK,"Stage 0/1","file-to-biosample-to-subject mapping with collection label and biofluid","one CSF and one plasma unit per included patient-label; no unresolved duplicates",NO
+SOURCE_QC,"Stage 0C/1/7.1","source-reported mapped reads and Atlas QC flags","306 primary samples; library identity; metric definition; PASS/FAIL provenance",NO
+PREPARED_STAGE1_INPUT,"Stage 1A-4","analysis-ready matrices and paired metadata created from verified public assets","30 patients; 153 FULL pairs; 141 QC PASS-only pairs; 507/1079 fixed features",NO
+HISTORICAL_CROSSLAYER_INPUTS,"Stage 4","original score definitions/weights or reproducible source inputs","LOSO leakage checks; shared-library annotation; checksum",NO
+STAGE_OUTPUT_TABLES,"Stage 5/7.1","validated Stage 1B-4 output tables","row counts and validation checks for each stage",NO
+XDEC_EXTERNAL_INPUTS,"feasibility check only","originally sourced XDec code/reference/background resources","obtain from original source; verify license and version match",NO

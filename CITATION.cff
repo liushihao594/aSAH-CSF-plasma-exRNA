@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite this software and the associated manuscript."
+title: "Longitudinal CSF-plasma exRNA analysis after aneurysmal subarachnoid hemorrhage"
+type: software
+authors:
+  - family-names: "Cui"
+    given-names: "Ruina"
+  - family-names: "Gao"
+    given-names: "Zhao"
+  - family-names: "Liu"
+    given-names: "Shihao"
+repository-code: "https://github.com/liushihao594/aSAH-CSF-plasma-exRNA"
+version: "1.0.0"
+license: "MIT"
+preferred-citation:
+  type: article
+  title: "Longitudinal extracellular RNA gradients between cerebrospinal fluid and plasma after aneurysmal subarachnoid hemorrhage"
+  journal: "BMC Neurology"
+  authors:
+    - family-names: "Cui"
+      given-names: "Ruina"
+    - family-names: "Gao"
+      given-names: "Zhao"
+    - family-names: "Liu"
+      given-names: "Shihao"
+    - family-names: "Zhao"
+      given-names: "Junjie"
+    - family-names: "Yan"
+      given-names: "Hongjing"
+    - family-names: "Zhang"
+      given-names: "Xiaoyu"
+    - family-names: "Wang"
+      given-names: "Yining"
+identifiers:
+  - type: other
+    value: "BMC Neurology manuscript 8fbcb807-d9ec-4860-a22b-e3f021f14a4d"
+    description: "Manuscript identifier; not a DOI"

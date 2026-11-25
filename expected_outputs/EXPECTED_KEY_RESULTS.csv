@@ -1,0 +1,15 @@
+result_id,layer_or_scope,expected_value,source_stage
+M1_significant,miRNA,192,Stage1B
+M1_significant,GENCODE,200,Stage1B
+M3_significant,miRNA,146,Stage1B
+M3_significant,GENCODE,145,Stage1B
+M4_significant,miRNA,70,Stage1B
+M4_significant,GENCODE,143,Stage1B
+strict_core,miRNA,16,Stage1B
+strict_core,GENCODE,33,Stage1B
+M1_miRNA_direction,"negative/positive","189/3",Stage1B
+M4_miRNA_direction,"negative/positive","33/37",Stage1B
+RAW_cross_layer_Pearson,"paired labels",0.3692,Stage4
+CLR_cross_layer_Pearson,"paired labels",0.8607,Stage4
+RAW_subject_slope_Pearson,"30 patients",0.4770,Stage4
+direction_concordant_subjects,"subject slopes","18/30",Stage4

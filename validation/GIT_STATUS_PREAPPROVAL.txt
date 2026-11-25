@@ -1,0 +1,15 @@
+?? .gitignore
+?? CITATION.cff
+?? CODE_AVAILABILITY.md
+?? DATA_AVAILABILITY.md
+?? LICENSE
+?? PUBLICATION_CONDITIONAL_FILES.txt
+?? PUBLICATION_WHITELIST.txt
+?? README.md
+?? RUN_ORDER.md
+?? THIRD_PARTY_NOTICES.md
+?? environment/
+?? expected_outputs/
+?? metadata/
+?? scripts/
+?? validation/
